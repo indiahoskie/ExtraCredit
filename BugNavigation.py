@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-"""
-Bug Navigation Algorithm
-Drives the robot to a goal while avoiding obstacles using a state machine.
-The robot will navigate around obstacles and then continue toward the goal.
-"""
-
 import time
 import math
 import numpy as np
